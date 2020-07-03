@@ -2,8 +2,7 @@
 Banana King Nerver Absent! Timed execution.
 
 ## Installation
-python3 version
-
+Only support python3
 ```
 $ pip install banana-king
 ```
