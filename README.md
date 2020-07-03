@@ -10,6 +10,7 @@ $ pip install banana-king
 ## How to use in terminal
 
 ```
+# banana-king
 
   ____                                  _  ___
  ♂  _ \                                ♂ |/ (_)
