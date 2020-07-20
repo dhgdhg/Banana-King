@@ -33,6 +33,6 @@ optional arguments:
 
 Example:
   1. banana-king -p "ls /"
-  2. banana-king -p "ls /" -t 22:23
+  2. banana-king -p "ls /" -t 22:23:23
   3. banana-king -p "ls /" -t 22:23 -b
 ```
